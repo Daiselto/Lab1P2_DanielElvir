@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Lab1P2_DanielElvir {
 
-    
+    static Scanner leer = new Scanner (System.in);
 
     /**
      * @param args the command line arguments
